@@ -49,14 +49,9 @@ long euler( long pieceOfWork, int extra )
     for(i=0; i<=pieceOfWork+extra; i++)
       work[i] = 0;
 
-    //printf("\nWork = %ld + extra = %d\n", pieceOfWork, extra );
     MPI_Status status;
     MPI_Recv(&work[0], pieceOfWork+extra+1, MPI_LONG, 0, 0, MPI_COMM_WORLD, &status);
 
-    //for(i=0; i<=pieceOfWork+extra; i++)
-      //printf("[%ld], ", work[i] );
-
-    //printf("\n");
 
     for( index=0; index<=(pieceOfWork+extra); index++ )
     {
@@ -103,12 +98,10 @@ long sumTotient(long lower, long upper, int processes, long pieceOfWork, int ext
 
     if (proc_num == 1)
     {
-      //int temp = extra;
 
       for( i=lower; i<(lower+pieceOfWork); i++ )
       {
         arrayOfWork[j] = i;
-        //printf("[%ld], ", arrayOfWork[j] );
         j++;
 
       }
@@ -119,35 +112,24 @@ long sumTotient(long lower, long upper, int processes, long pieceOfWork, int ext
 
         for (i=upper; temp!=0; i--) {
           arrayOfWork[j] = i;
-          //printf("{[%ld]}, ", arrayOfWork[j] );
           temp--;
           j++;
         }
 
-        //for ( int k = 0; k <= pieceOfWork+extra; k++) {
-        //  printf("[%ld] ", arrayOfWork[k] );
-        //}
       }
       MPI_Send(&arrayOfWork[0], pieceOfWork+extra+1, MPI_LONG, proc_num/*rank*/, 0 , MPI_COMM_WORLD);
 
     }
     else {
-      //printf("\nHERE SLV\n\n" );
+
       for( i=lower+((proc_num-1)*pieceOfWork); i<(lower+(proc_num*pieceOfWork)); i++ )
       {
         arrayOfWork[j] = i;
-        //printf("{[%ld]} ", arrayOfWork[j] );
         j++;
       }
-      //printf("\nHERE SLV2\n\n" );
-      //for ( int k = 0; k < (lower+(proc_num*pieceOfWork)); k++) {
-      //  printf("{[%ld]} ", arrayOfWork[k] );
-      //}
-      //printf("\nHERE SLV3\n\n" );
+
       MPI_Send(&arrayOfWork[0], pieceOfWork, MPI_LONG, proc_num/*rank*/, 0 , MPI_COMM_WORLD);
     }
-
-
 
 
     MPI_Recv(&result, 1, MPI_LONG, proc_num/*rank*/ , 0 , MPI_COMM_WORLD, &status);
@@ -160,6 +142,82 @@ long sumTotient(long lower, long upper, int processes, long pieceOfWork, int ext
 
 }
 
+
+void validateResult( int upper, long result ) {
+
+  switch ( upper ) {
+
+    case 10:
+
+      if( result == 32 ) {
+
+        printf("\t + WolframAlpha approves this result!\n");
+        break;
+
+      } else {
+
+        printf("\t + Wrong result: %ld instead of 32.\n\n", result);
+        break;
+      }
+
+    case 1000:
+
+      if( result == 304192 ) {
+
+        printf("\t + WolframAlpha approves this result!\n\n");
+        break;
+
+      } else {
+
+        printf("\t + Wrong result: %ld instead of 304192.\n\n", result);
+        break;
+      }
+
+    case 15000:
+
+      if( result == 68394316 ) {
+
+        printf("\t + WolframAlpha approves this result!\n\n");
+        break;
+
+      } else {
+
+        printf("\t + Wrong result: %ld instead of 68394316.\n\n", result);
+        break;
+      }
+
+    case 30000:
+
+      if( result == 273571774 ) {
+
+        printf("\t + WolframAlpha approves this result!\n\n");
+        break;
+
+      } else {
+
+        printf("\t + Wrong result: %ld instead of 273571774.\n\n", result);
+        break;
+      }
+
+    case 100000:
+
+      if( result == 3039650754 ) {
+
+        printf("\t + WolframAlpha approves this result!\n\n");
+        break;
+
+      } else {
+
+        printf("\t + Wrong result: %ld instead of 3039650754.\n\n", result);
+        break;
+      }
+
+    default:
+      break;
+  }
+
+  return;
+}
 
 int main(int argc, char ** argv)
 {
@@ -198,6 +256,8 @@ int main(int argc, char ** argv)
     sumTotients = sumTotient (lower, upper, processes, pieceOfWork, extra) ;
 
     printf("\n\t + Sum of Totients  between [%ld..%ld] is %ld\n\n", lower, upper, sumTotients);
+
+    validateResult(upper,sumTotients);
   }
   else if ( rank == 1 ) {
 
