@@ -2,9 +2,9 @@
 COUNT=2
 # bash until loop
 
-until [ $COUNT -gt 5 ]; do
+until [ $COUNT -gt 64 ]; do
 
-	mpirun -n $COUNT ./a.out 1 10 >> file.txt  
+	srun -n $COUNT --mpi=pmi2 ./a.out 1 15000 >> file2.txt  
 
         let COUNT=COUNT+1
 done 
