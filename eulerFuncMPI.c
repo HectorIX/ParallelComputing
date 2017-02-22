@@ -251,14 +251,19 @@ int main(int argc, char ** argv)
   if (rank == 0)
   {
     clock_t start, end;
-    printf("pieceOfWork = %ld\n", pieceOfWork);
-    printf("extra = %d\n", extra );
+    printf("=============================================\n");
+    printf("Num of processes = %d\n", processes );
+    //printf("pieceOfWork = %ld\n", pieceOfWork);
+    //printf("extra = %d\n", extra );
     start = clock();
     sumTotients = sumTotient (lower, upper, processes, pieceOfWork, extra) ;
     end = clock();
     printf("\n\t + Sum of Totients  between [%ld..%ld] is %ld\n\n", lower, upper, sumTotients);
-    printf( "Number of seconds: %f\n", (end-start)/(double)CLOCKS_PER_SEC );
+
     validateResult(upper,sumTotients);
+
+    printf( "\tNumber of seconds: %f\n", (end-start)/(double)CLOCKS_PER_SEC );
+    printf("=============================================\n");
   }
   else if ( rank == 1 ) {
 
