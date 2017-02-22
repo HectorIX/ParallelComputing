@@ -4,7 +4,7 @@ COUNT=2
 
 until [ $COUNT -gt 64 ]; do
 
-	srun -n $COUNT --mpi=pmi2 ./a.out 1 15000 >> file2.txt  
+	srun -n $COUNT --mpi=pmi2 ./a.out 1 30000 >> 30k.txt  
 
         let COUNT=COUNT+1
 done 

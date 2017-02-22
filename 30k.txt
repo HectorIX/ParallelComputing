@@ -1,0 +1,567 @@
+=============================================
+Num of processes = 2
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 51.140000
+=============================================
+=============================================
+Num of processes = 3
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 58.180000
+=============================================
+=============================================
+Num of processes = 4
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 53.990000
+=============================================
+=============================================
+Num of processes = 5
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 60.160000
+=============================================
+=============================================
+Num of processes = 6
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 60.900000
+=============================================
+=============================================
+Num of processes = 7
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 58.680000
+=============================================
+=============================================
+Num of processes = 8
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 58.660000
+=============================================
+=============================================
+Num of processes = 9
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 55.820000
+=============================================
+=============================================
+Num of processes = 10
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 58.910000
+=============================================
+=============================================
+Num of processes = 11
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 56.110000
+=============================================
+=============================================
+Num of processes = 12
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 55.730000
+=============================================
+=============================================
+Num of processes = 13
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 58.610000
+=============================================
+=============================================
+Num of processes = 14
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 59.180000
+=============================================
+=============================================
+Num of processes = 15
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 55.480000
+=============================================
+=============================================
+Num of processes = 16
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 57.320000
+=============================================
+=============================================
+Num of processes = 17
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 59.460000
+=============================================
+=============================================
+Num of processes = 18
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 59.820000
+=============================================
+=============================================
+Num of processes = 19
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 57.830000
+=============================================
+=============================================
+Num of processes = 20
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 58.180000
+=============================================
+=============================================
+Num of processes = 21
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 59.080000
+=============================================
+=============================================
+Num of processes = 22
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 58.580000
+=============================================
+=============================================
+Num of processes = 23
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 59.880000
+=============================================
+=============================================
+Num of processes = 24
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 59.690000
+=============================================
+=============================================
+Num of processes = 25
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 61.070000
+=============================================
+=============================================
+Num of processes = 26
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 60.260000
+=============================================
+=============================================
+Num of processes = 27
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 59.930000
+=============================================
+=============================================
+Num of processes = 28
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 60.430000
+=============================================
+=============================================
+Num of processes = 29
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 60.410000
+=============================================
+=============================================
+Num of processes = 30
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 61.030000
+=============================================
+=============================================
+Num of processes = 31
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 60.890000
+=============================================
+=============================================
+Num of processes = 32
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 61.110000
+=============================================
+=============================================
+Num of processes = 33
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 61.080000
+=============================================
+=============================================
+Num of processes = 34
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 61.310000
+=============================================
+=============================================
+Num of processes = 35
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 61.360000
+=============================================
+=============================================
+Num of processes = 36
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 61.220000
+=============================================
+=============================================
+Num of processes = 37
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 61.350000
+=============================================
+=============================================
+Num of processes = 38
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 61.590000
+=============================================
+=============================================
+Num of processes = 39
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 61.620000
+=============================================
+=============================================
+Num of processes = 40
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 61.640000
+=============================================
+=============================================
+Num of processes = 41
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 61.660000
+=============================================
+=============================================
+Num of processes = 42
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 61.760000
+=============================================
+=============================================
+Num of processes = 43
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 61.820000
+=============================================
+=============================================
+Num of processes = 44
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 61.890000
+=============================================
+=============================================
+Num of processes = 45
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 61.930000
+=============================================
+=============================================
+Num of processes = 46
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 62.080000
+=============================================
+=============================================
+Num of processes = 47
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 62.020000
+=============================================
+=============================================
+Num of processes = 48
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 62.150000
+=============================================
+=============================================
+Num of processes = 49
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 62.110000
+=============================================
+=============================================
+Num of processes = 50
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 62.330000
+=============================================
+=============================================
+Num of processes = 51
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 62.230000
+=============================================
+=============================================
+Num of processes = 52
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 62.360000
+=============================================
+=============================================
+Num of processes = 53
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 62.380000
+=============================================
+=============================================
+Num of processes = 54
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 62.440000
+=============================================
+=============================================
+Num of processes = 55
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 62.380000
+=============================================
+=============================================
+Num of processes = 56
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 62.380000
+=============================================
+=============================================
+Num of processes = 57
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 62.310000
+=============================================
+=============================================
+Num of processes = 58
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 62.570000
+=============================================
+=============================================
+Num of processes = 59
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 62.570000
+=============================================
+=============================================
+Num of processes = 60
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 62.710000
+=============================================
+=============================================
+Num of processes = 61
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 62.740000
+=============================================
+=============================================
+Num of processes = 62
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 63.410000
+=============================================
+=============================================
+Num of processes = 63
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 62.850000
+=============================================
+=============================================
+Num of processes = 64
+
+	 + Sum of Totients  between [1..30000] is 273571774
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 64.560000
+=============================================
