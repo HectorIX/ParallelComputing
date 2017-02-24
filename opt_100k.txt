@@ -1,0 +1,549 @@
+=============================================
+Num of processes = 2
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 303.500000
+=============================================
+=============================================
+Num of processes = 3
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 330.120000
+=============================================
+=============================================
+Num of processes = 4
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 341.510000
+=============================================
+=============================================
+Num of processes = 5
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 324.340000
+=============================================
+=============================================
+Num of processes = 6
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 346.240000
+=============================================
+=============================================
+Num of processes = 7
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 329.510000
+=============================================
+=============================================
+Num of processes = 8
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 334.170000
+=============================================
+=============================================
+Num of processes = 9
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 334.880000
+=============================================
+=============================================
+Num of processes = 10
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 324.450000
+=============================================
+=============================================
+Num of processes = 11
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 324.540000
+=============================================
+=============================================
+Num of processes = 12
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 313.980000
+=============================================
+=============================================
+Num of processes = 13
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 312.870000
+=============================================
+=============================================
+Num of processes = 14
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 334.670000
+=============================================
+=============================================
+Num of processes = 15
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 316.000000
+=============================================
+=============================================
+Num of processes = 16
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 330.520000
+=============================================
+=============================================
+Num of processes = 17
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 334.970000
+=============================================
+=============================================
+Num of processes = 18
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 321.660000
+=============================================
+=============================================
+Num of processes = 19
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 340.520000
+=============================================
+=============================================
+Num of processes = 20
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 333.950000
+=============================================
+=============================================
+Num of processes = 23
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 336.400000
+=============================================
+=============================================
+Num of processes = 24
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 331.640000
+=============================================
+=============================================
+Num of processes = 25
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 338.030000
+=============================================
+=============================================
+Num of processes = 26
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 342.290000
+=============================================
+=============================================
+Num of processes = 27
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 344.070000
+=============================================
+=============================================
+Num of processes = 28
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 340.890000
+=============================================
+=============================================
+Num of processes = 29
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 347.160000
+=============================================
+=============================================
+Num of processes = 30
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 347.490000
+=============================================
+=============================================
+Num of processes = 31
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 348.580000
+=============================================
+=============================================
+Num of processes = 32
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 349.160000
+=============================================
+=============================================
+Num of processes = 33
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 350.240000
+=============================================
+=============================================
+Num of processes = 34
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 347.870000
+=============================================
+=============================================
+Num of processes = 35
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 348.950000
+=============================================
+=============================================
+Num of processes = 36
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 350.210000
+=============================================
+=============================================
+Num of processes = 37
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 350.480000
+=============================================
+=============================================
+Num of processes = 38
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 350.870000
+=============================================
+=============================================
+Num of processes = 39
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 351.290000
+=============================================
+=============================================
+Num of processes = 40
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 351.810000
+=============================================
+=============================================
+Num of processes = 41
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 351.840000
+=============================================
+=============================================
+Num of processes = 42
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 351.440000
+=============================================
+=============================================
+Num of processes = 43
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 352.120000
+=============================================
+=============================================
+Num of processes = 44
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 352.470000
+=============================================
+=============================================
+Num of processes = 45
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 352.840000
+=============================================
+=============================================
+Num of processes = 46
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 351.850000
+=============================================
+=============================================
+Num of processes = 47
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 353.240000
+=============================================
+=============================================
+Num of processes = 48
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 352.630000
+=============================================
+=============================================
+Num of processes = 49
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 352.530000
+=============================================
+=============================================
+Num of processes = 50
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 353.140000
+=============================================
+=============================================
+Num of processes = 51
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 353.540000
+=============================================
+=============================================
+Num of processes = 52
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 352.770000
+=============================================
+=============================================
+Num of processes = 53
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 354.430000
+=============================================
+=============================================
+Num of processes = 54
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 353.760000
+=============================================
+=============================================
+Num of processes = 55
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 353.580000
+=============================================
+=============================================
+Num of processes = 56
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 352.950000
+=============================================
+=============================================
+Num of processes = 57
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 353.210000
+=============================================
+=============================================
+Num of processes = 58
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 354.110000
+=============================================
+=============================================
+Num of processes = 59
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 354.980000
+=============================================
+=============================================
+Num of processes = 60
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 354.950000
+=============================================
+=============================================
+Num of processes = 61
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 354.940000
+=============================================
+=============================================
+Num of processes = 62
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 355.600000
+=============================================
+=============================================
+Num of processes = 63
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 356.070000
+=============================================
+=============================================
+Num of processes = 64
+
+	 + Sum of Totients  between [1..100000] is 3039650754
+
+	 + WolframAlpha approves this result!
+
+	Number of seconds: 356.110000
+=============================================
