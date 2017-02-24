@@ -2,9 +2,9 @@
 COUNT=2
 # bash until loop
 
-until [ $COUNT -gt 64 ]; do
+until [ $COUNT -gt 5 ]; do
 
-	srun -n $COUNT --mpi=pmi2 ./a.out 1 100000 >> opt_100k.txt  
+	srun -n 1 --mpi=pmi2 ./a.out 1 15000 >> opt_serial_15.txt  
 
         let COUNT=COUNT+1
 done 
